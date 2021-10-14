@@ -18,4 +18,4 @@ Then run the command below to test the built on VCD:
 testOnly singleCycle.TopTest -- -DwriteVcd=1
 ```
 
-**The vcd will be created in the directory named *test_run_dir* **
+**The vcd will be created in the directory named test_run_dir**
